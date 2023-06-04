@@ -15,6 +15,6 @@ Never say never, because the limits like fears are often just an illusion.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-ggd&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nicolas-ggd&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nicolas-ggd&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
