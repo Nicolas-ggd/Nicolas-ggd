@@ -1,3 +1,11 @@
+# ⚡ Software Engineer
+Never say never, because the limits like fears are often just an illusion.
+
+## ✏️ Contact me anytime
+✉️ Gmail: ggdnicolas@gmail.com
+
+## 💻 Website:
+🌐: https://nicolas-ggd.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-gogitidze-8b1532229/) 
