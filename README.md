@@ -1,15 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nicolas</h2>
+<h1 align="left">Hi 👋! My name is Nicolas</h1>
 
 ###
 
-<h4 align="left">👋 Hi, I’m @Nicolas-ggd<br>👀 I'm interested in Go, algorithms, their work and engines<br>🌱 I’m currently learning Golang<br>⚡ I'm looking to collaborate on open source projects that will give me experience working with Go, etc...</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-ggd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Nicolas-ggd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<h3 align="left">👋 Hi, I’m @Nicolas-ggd<br>👀 I'm interested in Go, algorithms, their work and engines<br>🌱 I’m currently learning Golang<br>⚡ I'm looking to collaborate on open source projects that will give me experience working with Go, etc...</h3>
 
 ###
 
@@ -48,6 +41,13 @@
   <a href="https://www.instagram.com/hakunochi__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-ggd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nicolas-ggd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
