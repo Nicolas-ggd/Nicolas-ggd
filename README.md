@@ -57,19 +57,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Nicolas-ggd/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
